@@ -16,7 +16,7 @@ This is a meme board made to teach people git
 
 ![J'aime le meme](images/z00merm3m3.jpg)
 
-[Look at Eleven Look at her go](eleven.png)
+[Look at Eleven Look at her go](https://i.redd.it/zyncobj6unv31.png)
 
 
 
